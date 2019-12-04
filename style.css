@@ -1,0 +1,164 @@
+#head {color: white;
+background-color:green;
+background-image:url('image/udomm.PNG');
+font-size: 45px;
+height:90px;
+text-align:center;
+margin:auto;
+position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+.head
+{
+margin: 30px;
+  background-color: #00ff00;
+  border: 1px solid #00ff00;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+.discription{
+color: white;
+background-color:blue;
+text-align:center;
+max-width:1270px;
+margin:auto;
+}
+ /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+} 
+.hotlink{
+float:left;
+line-height:100px;
+width:350px;
+height:450px;
+color:white;
+padding:5px;
+background-image:url('image/udom.jpg');
+color:white;
+}
+.loginform{float:left;
+width:500px;
+color:red;
+padding:0px;
+background-image:url('image/udom.jpg');
+color:blue;
+text-align:center}
+.section
+{
+float:right;
+background-image:url('image/udom.jpg');
+height:454px;
+}
+.footer{background-color:green;
+text-align:center;
+padding:5px;
+clear:both;
+color:white;
+}
+
+.security
+{
+width:800px;
+color:red;
+padding:5px;
+background-color:blue;
+text-align:center;
+clear:both;
+font-size:30px;
+}
+.loginform1{float:left;
+width:650px;
+color:red;
+padding:5px;
+background-color:blue;
+color:yellow;
+ text-shadow: 0 0 3px #FF0000;
+text-align:center}
+.section1
+{
+float:right;
+background-image:url('image/udom.jpg')
+height:500px;
+}
+.hotlink1{
+float:left;
+line-height:100px;
+max-width:200px;
+height:471px;
+color:white;
+padding:5px;
+background-color:blue;
+color:white;
+margin:auto;
+overflow-x:auto;
+}
+.section
+{
+color:red;
+background-color:blue;
+text-align:center;
+float:center;
+}
+.loginform3{float:left;
+max-width:500px;
+font-size:30px;
+color:red;
+padding:5px;
+background-color:blue;
+color:blue;
+text-align:center}
+
+.loginform4{float:left;
+max-width:540px;
+font-size:30px;
+color:red;
+padding:5px;
+background-color:blue;
+color:blue;
+text-align:center;
+}
+
+#loginform5{
+float:left;
+width:1000px;
+font-size:30px;
+color:red;
+padding:5px;
+background-color:blue;
+color:blue;
+text-align:center;
+}
+.hotlink2{
+float:left;
+line-height:100px;
+max-width:200px;
+height:471px;
+color:white;
+padding:5px;
+background-color:blue;
+color:white;
+}
+
+.section2
+{
+float:right;
+background-image:url('image/udomm.PNG');
+height:471px;
+}
